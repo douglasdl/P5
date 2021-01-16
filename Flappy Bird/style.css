@@ -6,6 +6,12 @@ canvas-content {
   display: block;
 }
 
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
 body {
   background-image: url("background.png");
   background-color: #000000;
