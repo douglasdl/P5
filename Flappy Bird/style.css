@@ -10,3 +10,7 @@ body {
   background-image: url("background.png");
   background-color: #000000;
 }
+
+.canvas {
+  background-color: #60c0ed;
+}
