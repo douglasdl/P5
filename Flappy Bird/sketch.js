@@ -1,7 +1,9 @@
 var bird;
 var pipes = [];
 function setup() {
-  createCanvas(400, 600);
+  canvas = createCanvas(400, 600);
+  // Move the canvas so it’s inside our <div id="sketch-holder">.
+  canvas.parent('canvas-content');
   
   bird = new Bird();
   pipes.push(new Pipe());
