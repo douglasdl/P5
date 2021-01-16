@@ -11,7 +11,7 @@ function setup() {
 
 
 function draw() {
-  background(0);
+  background(150, 205, 242);
   
   for(var i = pipes.length - 1; i >= 0; i--) {
     pipes[i].update();

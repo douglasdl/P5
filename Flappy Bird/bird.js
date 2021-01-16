@@ -8,7 +8,7 @@ function Bird() {
   this.velocity = 0;
   
   this.show = function() {
-    fill(50, 100, 255);
+    fill(235, 155, 52);
     ellipse(this.x, this.y, this.size, this.size);
   }
   
