@@ -36,7 +36,7 @@ body, html {
 
 /* MELI34 image (Products) */
 .bgimg-mli34 {
-  background-image: url("/images/MELI34.png");
+  background-image: url("images/MELI34.png");
   min-height: 100px;
 }
 
@@ -47,13 +47,13 @@ body, html {
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("/images/parallax2.jpg");
+  background-image: url("images/parallax2.jpg");
   min-height: 400px;
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("/images/parallax3.jpg");
+  background-image: url("images/parallax3.jpg");
   min-height: 400px;
 }
 
