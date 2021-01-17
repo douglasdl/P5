@@ -34,9 +34,9 @@ body, html {
   min-height: 100%;
 }
 
-/* MELI34 image (Products) */
-.bgimg-mli34 {
-  background-image: url("images/MELI34.png");
+/* P5 image (Documentation) */
+.bgimg-p5 {
+  background-image: url("images/p5.png");
   min-height: 100px;
 }
 
