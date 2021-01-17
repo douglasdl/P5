@@ -30,7 +30,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('/images/fundo2.png');
+  background-image: url('images/fundo2.png');
   min-height: 100%;
 }
 
@@ -38,6 +38,7 @@ body, html {
 .bgimg-p5 {
   background-image: url("images/p5.png");
   min-height: 100px;
+  
 }
 
 .logo {
