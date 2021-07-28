@@ -41,6 +41,12 @@ body, html {
   margin-bottom: 2rem;
 }
 
+.bgimg-p5 {
+  background-image: url('https://douglasdl.github.io/images/p5.png');
+  min-height: 400px;
+  margin-bottom: 2rem;
+}
+
 /* HTML, CSS, JS image (Documentation) */
 .bgimg-html {
   background-image: url("https://douglasdl.github.io/images/html.png");
